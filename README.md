@@ -23,6 +23,13 @@ Esta interfaz gráfica de usuario (GUI), desarrollada en Python, se centra en an
 ## Instalación
 
 Este proyecto requiere **Python** y las bibliotecas necesarias para el análisis de datos. Utiliza el archivo del dataset de ventas de Adidas proporcionado para explorar todas las funcionalidades de la interfaz.
+Para usar este proyecto:
+1. Descarga los archivos `datasetadidas.xlsx` y `GUI ADIDAS.py`.
+2. Actualiza en el código las rutas del archivo Excel (línea 11) y de la imagen (línea 75).
+3. Verifica que todas las bibliotecas requeridas estén instaladas y ejecuta el archivo en Python.
+4. Las credenciales para acceder son:  
+   - Usuario: `user1234`  
+   - Contraseña: `1234`
 
 ## Contratación
 
