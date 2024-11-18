@@ -19,7 +19,7 @@ Esta interfaz gráfica de usuario (GUI), desarrollada en Python, se centra en an
 [LinkedIn](https://www.linkedin.com/in/bryanburbanocarvajal)  
 
 ## Ver ejemplo en vivo
-[GRAPHICAL USER INTERFACE FOR ADIDAS SALES DATA ANALYSIS IN PYTHON]()
+[GRAPHICAL USER INTERFACE FOR ADIDAS SALES DATA ANALYSIS IN PYTHON](https://bryancarvajal24.github.io/GRAPHICAL-USER-INTERFACE-FOR-ADIDAS-SALES-DATA-ANALYSIS-IN-PYTHON/)
 
 ## Instalación
 
